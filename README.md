@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergio
 - 👀 I’m interested in software and hardware
-- 🌱 I’m currently learning electronic engineer
+- 🌱 I’m currently learning electronic engineer at University of Barcelona
 - 📫 How to reach me  www.linkedin.com/in/sergio-diaz-moral
 
 <!---
